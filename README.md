@@ -1,6 +1,22 @@
 plugin-xcode
 ============
 
-Xcode plug-in that provides shortcuts for copy lines.
+What is this?
 
-wait for update.
+This plugin-xcode is to provide some shortcuts to xcode. (If you've used Eclipse)
+
+Currently supports the following functions:
+  Copy the current line to the next line
+  Copy the current line to the previous line
+  Select uppercase
+  Select lowercase
+  Delete the current line
+
+
+How do I use it?
+
+Build the plugin-xcode target in the Xcode project and the plug-in will automatically be installed in ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins. Relaunch Xcode,then use it.
+
+What does this work with?
+
+Developed and tested against Xcode 4.6.3 on 10.8. Also appears to work with Xcode 4.6.
