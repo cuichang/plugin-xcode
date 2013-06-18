@@ -6,11 +6,11 @@ What is this?
 This plugin-xcode is to provide some shortcuts to xcode. (If you've used Eclipse)
 
 Currently supports the following functions:
-  Copy the current line to the next line
-  Copy the current line to the previous line
-  Select uppercase
-  Select lowercase
-  Delete the current line
+  Copy the current line to the next line 		(Command + Alt + ↓)
+  Copy the current line to the previous line	(Command + Alt + ↑)
+  Select uppercase								(Command + Alt + p)
+  Select lowercase								(Command + Alt + u)
+  Delete the current line						(Control + d)
 
 
 How do I use it?
