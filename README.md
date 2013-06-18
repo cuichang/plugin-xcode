@@ -15,7 +15,7 @@ Currently supports the following functions:
 
 
 How do I use it?
-￪￪￪
+
 Build the plugin-xcode target in the Xcode project and the plug-in will automatically be installed in ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins. Relaunch Xcode,then use it.
 
 What does this work with?
