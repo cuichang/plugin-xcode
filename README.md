@@ -6,6 +6,7 @@ What is this?
 This plugin-xcode is to provide some shortcuts to xcode. (If you've used Eclipse )
 
 Currently supports the following functions:
+
 	Copy the current line to the next line 		(Command + Alt + ↓)
 	Copy the current line to the previous line	(Command + Alt + ↑)
 	Select uppercase							(Command + Alt + p)
